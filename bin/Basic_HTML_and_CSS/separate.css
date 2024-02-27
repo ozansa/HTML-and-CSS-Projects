@@ -1,0 +1,7 @@
+ol {
+	list-style-type:lower-roman;
+	color:blue;
+}
+li {
+	list-style-type:square;
+}
