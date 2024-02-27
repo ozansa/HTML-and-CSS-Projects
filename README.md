@@ -8,6 +8,7 @@ Projects
 
 • Krusty Krab (The hamburger restaurant in the SpongeBob cartoon) Site
 • Movie Theater Site
+• Live Portfolio Website
 
 
 • Krusty Krab (The hamburger restaurant in the SpongeBob cartoon) Site
@@ -18,3 +19,8 @@ This page is an example home page for a The hamburger restaurant in the SpongeBo
 Movie Theater Site
 
 This page is an example home page for a Movie theater that is styled using Boostrap 4. It contains many Boostrap components including but not limited to a navbar, jumbotron, form, cards, and dropdowns.
+
+
+Live Portfolio Website
+
+This page is a full website with its own URL. The Website provides an online description of me and my portfolio. 
